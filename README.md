@@ -2,7 +2,7 @@
 
 ### Установка
 
- - composer require teamprodev/clickuz
+ - composer require abram73/clickuz
  - You specify it in the file .env these dash components:
 CLICKUZ_RETURN_URL=
 CLICKUZ_SERVICE_ID=
